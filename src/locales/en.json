@@ -1,0 +1,74 @@
+{
+  "TITLE_INDEX": "Home",
+  "TITLE_PRODUCT": "Products",
+  "TITLE_ABOUT": "About Pipexpert",
+  "TITLE_CONTACT": "Contact Us",
+
+  "PRODUCT": "Products",
+  "PRODUCT_TITLE_1": "Vapor Chambers (VC)",
+  "PRODUCT_TITLE_2": "Heat Pipes",
+  "PRODUCT_TITLE_3": "Thermal Modules",
+  "PRODUCT_TITLE_4": "Liquid Cooling",
+
+  "PRODUCT_DESC": "Advanced thermal solutions customized for your application needs.",
+  "PRODUCT_DESC_1": "Provides high thermal conductivity and rapid heat spreading for high-power chips, ensuring fast heat dissipation and reduced thermal resistance.",
+  "PRODUCT_DESC_2": "Delivers efficient heat transport with flexible routing options, suitable for diverse device cooling needs and improving overall thermal performance.",
+  "PRODUCT_DESC_3": "Compact and efficient thermal modules designed to ensure stable operation of network equipment.",
+  "PRODUCT_DESC_4": "High-performance liquid-cooling systems engineered for servers and high-performance computing, meeting stringent thermal requirements and ensuring long-term stability.",
+
+  "ADVANTAGE_TITLE_1": "Precision Simulation Design",
+  "ADVANTAGE_TITLE_2": "Innovative Flow Channel Technology",
+  "ADVANTAGE_TITLE_3": "Modular Architecture",
+  "ADVANTAGE_TITLE_4": "Advanced Bonding Technology",
+
+  "ADVANTAGE_DESC_1": "Provides pressure-drop and performance simulations that integrate mechanical, flow-channel, and thermal design, accelerating customer design-verification cycles.",
+  "ADVANTAGE_DESC_2": "Engineered with complex internal flow channels to enhance turbulence and satisfy pressure-drop requirements.",
+  "ADVANTAGE_DESC_3": "Industry-unique multi-piece modular design significantly improves yield and manufacturing efficiency.",
+  "ADVANTAGE_DESC_4": "Utilizes MSVE technology to achieve metal atomic diffusion bonding, enhancing product reliability and yield.",
+
+  "PRODUCT_THICK": "Thickness",
+  "PRODUCT_HEATER": "Heat Source",
+  "PRODUCT_DOUBLE_HEATER": "Dual Heat Sources",
+
+  "PRODUCT_COST_1": "Thickness: 0.3 mm–10 mm  |  Power: 3 W–1200 W+. Supports single/multi-heat sources, high heat flux, and special structures.",
+  "PRODUCT_COST_2": "Applications: AI servers, switches, 1.6T optical modules, notebooks, industrial computing.",
+
+  "PRODUCT_PIPE_1": "Ø1 mm ultra-thin heat pipe | Ø1–Ø8 mm | Wick types: Sintered / Groove / Composite",
+  "PRODUCT_PIPE_2": "Applications: Wearable devices, notebooks, switches, telecom equipment.",
+
+  "PRODUCT_THERMAL_1": "VC modules, heat-pipe modules, aluminum extrusion / fin / copper base designs, reflow soldering, press-fit, adhesive bonding, coating.",
+  "PRODUCT_THERMAL_2": "Applications: Notebooks, industrial PCs, servers, compact AI devices.",
+
+  "PRODUCT_WATER_1": "Materials: Copper / Aluminum / Stainless Steel. Features: High-flow, low-pressure-drop design.",
+  "PRODUCT_WATER_2": "Applications: AI GPUs, servers, semiconductor equipment.",
+
+  "PRODUCT_WATER_DESC_4": "High-performance liquid-cooling systems designed for stable data-center thermal management. With precise flow-channel engineering and simulation-driven optimization, the system maintains low temperatures under heavy workloads and supports heat sources exceeding 1000 W, extending equipment lifespan and performance.",
+
+  "PRODUCT_WATER_CAR_1": "Supports multi-piece structures and complex internal flow-channel designs.",
+  "PRODUCT_OTHER_1": "90-degree bending for motherboard SSD modules",
+
+  "ABOUT_DESC_1": "Pipexpert Co., Ltd. specializes in high-power thermal-management technologies, offering solutions including:",
+  "ABOUT_DESC_2": "R&D is based in Taiwan, focusing on front-end design, thermal simulation, and rapid prototyping. Our China manufacturing base delivers reliable mass-production capability, while our Vietnam partners support metal fabrication and machining. This structure enables speed, flexibility, and global supply readiness.",
+  "ABOUT_DESC_3": "We collaborate deeply with customers throughout the product-development cycle—from thermal architecture design, prototyping, performance validation, to module integration and mass-production ramp-up—providing one-stop high-performance thermal solutions.",
+  "ABOUT_DESC_4": "Mission",
+  "ABOUT_DESC_5": "To develop future-oriented thermal technologies that support high-speed computing, optical communication, and advanced-process industries.",
+  "ABOUT_DESC_6": "Vision",
+  "ABOUT_DESC_7": "To become the most trusted technology partner in the global high-power thermal-management industry.",
+
+  "ABOUT_PRODUCT_1": "Vapor Chambers (VC)",
+  "ABOUT_PRODUCT_2": "Ultra-thin VC / 3D VC",
+  "ABOUT_PRODUCT_3": "Ø1 mm Ultra-Thin Heat Pipes",
+  "ABOUT_PRODUCT_4": "Thermal Modules",
+  "ABOUT_PRODUCT_5": "Liquid-Cooling Plates",
+  "ABOUT_PRODUCT_6": "Thermal Solutions for Semiconductor Equipment",
+
+  "CONTACT_DESC": "We are here to assist you and provide the support you need.",
+  "CONTACT_LOCATION": "Location",
+  "CONTACT_LOCATION_DESC": "5F, No.107, Wugong 2nd Rd., Wugu District, New Taipei City, Taiwan",
+  "CONTACT_LOCATION_DESC_1": "Taiwan R&D Center: Design, thermal simulation, early-stage validation",
+  "CONTACT_LOCATION_DESC_2": "China Manufacturing Base: VC, heat pipe, module mass production",
+  "CONTACT_LOCATION_DESC_3": "Vietnam Metal-Manufacturing Partner: Structural parts and machining",
+
+  "CONTACT_EMAIL": "Email",
+  "CONTACT_PHONE": "Phone"
+}
