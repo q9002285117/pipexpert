@@ -11,10 +11,10 @@
   "PRODUCT_TITLE_4": "Liquid Cooling",
 
   "PRODUCT_DESC": "Advanced thermal solutions customized for your application needs.",
-  "PRODUCT_DESC_1": "Provides high thermal conductivity and rapid heat spreading for high-power chips, ensuring fast heat dissipation and reduced thermal resistance.",
-  "PRODUCT_DESC_2": "Delivers efficient heat transport with flexible routing options, suitable for diverse device cooling needs and improving overall thermal performance.",
-  "PRODUCT_DESC_3": "Compact and efficient thermal modules designed to ensure stable operation of network equipment.",
-  "PRODUCT_DESC_4": "High-performance liquid-cooling systems engineered for servers and high-performance computing, meeting stringent thermal requirements and ensuring long-term stability.",
+  "PRODUCT_DESC_1": "Thickness: 0.3 mm – 10 mm Power Capacity: 3 W – 1200 W+ Supports single heat source or multiple heat sources, high heat flux, and customized structural designs.Applications: AI servers, network switches, 1.6T optical modules, notebooks, and industrial computers.",
+  "PRODUCT_DESC_2": "Ø1 mm ultra-thin heat pipe | Ø1–Ø8 mm | Wick types: Sintered / Groove / Composite",
+  "PRODUCT_DESC_3": "VC Modules, Heat Pipe Modules, Aluminum Extrusion / Fin / Copper Base Designs, Reflow Soldering, Press-Fit, Adhesive Bonding, and Surface Coating Applications:Notebooks (NB), industrial computers, servers, and compact AI devices.",
+  "PRODUCT_DESC_4": "Materials: Copper / Aluminum / Stainless Steel. Features: High-flow, low-pressure-drop design. Applications: AI GPUs, servers, semiconductor equipment.",
 
   "ADVANTAGE_TITLE_1": "Precision Simulation Design",
   "ADVANTAGE_TITLE_2": "Innovative Flow Channel Technology",
@@ -30,17 +30,26 @@
   "PRODUCT_HEATER": "Heat Source",
   "PRODUCT_DOUBLE_HEATER": "Dual Heat Sources",
 
-  "PRODUCT_COST_1": "Thickness: 0.3 mm–10 mm  |  Power: 3 W–1200 W+. Supports single/multi-heat sources, high heat flux, and special structures.",
-  "PRODUCT_COST_2": "Applications: AI servers, switches, 1.6T optical modules, notebooks, industrial computing.",
-
-  "PRODUCT_PIPE_1": "Ø1 mm ultra-thin heat pipe | Ø1–Ø8 mm | Wick types: Sintered / Groove / Composite",
-  "PRODUCT_PIPE_2": "Applications: Wearable devices, notebooks, switches, telecom equipment.",
+  "PRODUCT_COST_1": "Ultra-thin VC",
+  "PRODUCT_COST_2": "5G high power",
+  "PRODUCT_COST_3": "Game mobile phone-stainless steel high strength",
+  "PRODUCT_COST_4": "Bilateral cooling",
+  "PRODUCT_COST_5": "One side cooling",
+  "PRODUCT_COST_6": "Bilateral cooling for gaming laptops",
+  
+  "PRODUCT_PIPE_1": "Micro Heat Pipe",
+  "PRODUCT_PIPE_2": "Micro heat pipes are high-efficiency passive thermal solutions that transfer heat rapidly through phase-change circulation inside the pipe. Their ultra-thin and lightweight design makes them ideal for compact electronic devices with limited space. \n Applications AR / VR smart glasses, wearable devices, miniature electronics, and optical modules.",
 
   "PRODUCT_THERMAL_1": "VC modules, heat-pipe modules, aluminum extrusion / fin / copper base designs, reflow soldering, press-fit, adhesive bonding, coating.",
   "PRODUCT_THERMAL_2": "Applications: Notebooks, industrial PCs, servers, compact AI devices.",
 
-  "PRODUCT_WATER_1": "Materials: Copper / Aluminum / Stainless Steel. Features: High-flow, low-pressure-drop design.",
-  "PRODUCT_WATER_2": "Applications: AI GPUs, servers, semiconductor equipment.",
+  "PRODUCT_NET_2": "Switch VC module - ultra-large and ultra-high QmaxVC is designed to replace liquid cooling products",
+  "PRODUCT_NET_3": "Server Platform Thermal Module",
+
+  "PRODUCT_WATER_1": "Large AI computing chip cooling",
+  "PRODUCT_WATER_2": "Energy storage system cooling",
+  "PRODUCT_WATER_3": "Vehicle central control system",
+  "PRODUCT_WATER_4": "Computer room liquid cooling solution",
 
   "PRODUCT_WATER_DESC_4": "High-performance liquid-cooling systems designed for stable data-center thermal management. With precise flow-channel engineering and simulation-driven optimization, the system maintains low temperatures under heavy workloads and supports heat sources exceeding 1000 W, extending equipment lifespan and performance.",
 

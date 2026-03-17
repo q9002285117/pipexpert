@@ -77,7 +77,37 @@ export default {
             image: require("@/assets/cost1.png"),
             feature:this.$t('PRODUCT_COST_1'),
             specification:
-            this.$t('PRODUCT_COST_2'),
+              this.$t('PRODUCT_THICK')+":  0.2 MM "+this.$t('PRODUCT_HEATER')+" : 3W-5W",
+          },
+          {
+            image: require("@/assets/cost2.png"),
+            feature: this.$t('PRODUCT_COST_2'),
+            specification:
+              this.$t('PRODUCT_THICK')+":  0.3 MM "+this.$t('PRODUCT_HEATER')+" : 7W-10W",
+          },
+          {
+            image: require("@/assets/cost3.png"),
+            feature: this.$t('PRODUCT_COST_3'),
+            specification:
+              this.$t('PRODUCT_THICK')+":  0.4 MM "+this.$t('PRODUCT_HEATER')+" : 7W-10W",
+          },
+          {
+            image: require("@/assets/cost4.png"),
+            feature:  this.$t('PRODUCT_COST_4'),
+            specification:
+              this.$t('PRODUCT_THICK')+": 1.00MM "+this.$t('PRODUCT_HEATER')+" : "+this.$t('PRODUCT_DOUBLE_HEATER')+" 10W+15W",
+          },
+          {
+            image: require("@/assets/cost5.png"),
+            feature: this.$t('PRODUCT_COST_5'),
+            specification:
+              this.$t('PRODUCT_THICK')+": 0.85MM "+this.$t('PRODUCT_HEATER')+" :  40W",
+          },
+          {
+            image: require("@/assets/cost6.png"),
+            feature: this.$t('PRODUCT_COST_6'),
+            specification:
+              this.$t('PRODUCT_THICK')+": 3.00MM "+this.$t('PRODUCT_HEATER')+" : "+this.$t('PRODUCT_DOUBLE_HEATER')+"  65W+95W",
           },
           ],
         },
@@ -99,12 +129,16 @@ export default {
           description: this.$t('PRODUCT_DESC_3'),
           image: require("@/assets/water.png"),
           details: [
-          {
-            image: require("@/assets/water1.png"),
-            feature:this.$t('PRODUCT_THERMAL_1'),
-            specification:
-              this.$t('PRODUCT_THERMAL_2'),
-          }
+            {
+              image: require("@/assets/net2.png"),
+              feature: this.$t('PRODUCT_NET_2'),
+              specification:
+              this.$t('PRODUCT_THICK')+": 8 MM "+this.$t('PRODUCT_HEATER')+" : 1200W",
+            },
+            {
+              image: require("@/assets/net3.png"),
+              feature: this.$t('PRODUCT_NET_3'),
+            },
           ],
         },
         {
@@ -113,10 +147,27 @@ export default {
           image: require("@/assets/other.png"),
           details: [
           {
-            image: require("@/assets/other1.png"),
+            image: require("@/assets/water1.png"),
             feature:this.$t('PRODUCT_WATER_1'),
             specification:
-              this.$t('PRODUCT_WATER_2'),
+              this.$t('PRODUCT_HEATER')+" : 1200W",
+          },
+          {
+            image: require("@/assets/water2.png"),
+            feature: this.$t('PRODUCT_WATER_2'),
+            specification:
+              this.$t('PRODUCT_HEATER')+" : >2KW（400W*5）",
+          },
+          {
+            image: require("@/assets/car1.png"),
+            feature:this.$t('PRODUCT_WATER_3'),
+            specification:
+            this.$t('PRODUCT_WATER_CAR_1'),
+          },          {
+            image: require("@/assets/water5.png"),
+            feature:this.$t('PRODUCT_WATER_4'),
+            specification:
+            this.$t('PRODUCT_WATER_DESC_4'),
           },
           ],
         },
@@ -266,5 +317,8 @@ export default {
   color: #ccc;
   font-size: 14px;
   line-height: 1.8;
+}
+.details-text p {
+  white-space: pre-line;
 }
 </style>

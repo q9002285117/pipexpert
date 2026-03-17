@@ -210,7 +210,7 @@ export default {
   color: white;
   padding: 20px;
   margin: 20px;
-  background: #333;
+  background: #60656f;
   border-radius: 10px;
   box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.3);
   transition: transform 0.3s ease, box-shadow 0.3s ease;
